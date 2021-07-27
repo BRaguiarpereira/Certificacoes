@@ -1,8 +1,4 @@
-<h2>Todos os certificados de cursos obtidos
-  https://selenium-python.readthedocs.io/
-http://pythonclub.com.br/selenium-parte-1.html
-
-</h2>
+<h2>Todos os certificados de cursos obtidos</h2>
   <a href="#">
     <img align="center"  src="01ce.jpg" />
   </a>
